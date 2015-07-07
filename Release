@@ -1,0 +1,9 @@
+Origin: Laxus's Repo
+Label: Laxus's Repo
+Suite: stable
+Version: 1.0
+Codename: Laxus
+Architectures: iphoneos-arm
+Components: main
+Description: Laxus's Repo
+MD5Sum: 
