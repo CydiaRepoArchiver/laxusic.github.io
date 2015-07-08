@@ -32,21 +32,37 @@ Author: iOSCheaters
 Depiction: http://laxusic.github.io/depic/com.ioscheaters.rmaslrgui/index.html
 Name: Remove ASLR GUI
 
-
-Package: com.thireus.untrustedhostsblocker
-Version: 3.4.0
+Package: com.myrepospace.ColonelJason.rmaslrgui
+Version: 2.0.0
 Architecture: iphoneos-arm
-Maintainer: Thireus
-Section: Security
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: sed, grep, coreutils, shell-cmds
-Size: 735984
-Filename: debs//com.thireus.untrustedhostsblocker_3.4.0_iphoneos-arm.deb
-MD5sum: abde4e29ef7d3fc055dd5abb8e0fde38
-SHA1: d9b41a3f79bc76e97f034ab1ef1181078b673f91
-SHA256: e586423e370a9c2ddb3e54376b5c14b27e761aaf43c5bfe793af100b86d86075
-Description: Say goodbye to ads, spies, tracking and untrusted hosts.
-Author: Thireus
-Depiction: http://laxusic.github.io/depic/com.thireus.untrustedhostsblocker/index.html
-Name: Untrusted Hosts Blocker
+Maintainer: Alcatraz
+Section: Tools
+Priority: extra
+Size: 127512
+Filename: debs//com.ioscheaters.rmaslrgui.deb
+MD5sum: 984572e9c65363639e4bd5b1046e2bfa
+SHA1: 3aa9824047867696b2ef9a172254a44b2957867c
+SHA256: 99ed3b4afeb341c3ed2aacdff88970af9da8db33c3922e3c8d12e84a91bae2a7
+Description: Removes ASLR from apps
+Author: iOSCheaters
+Depiction: http://laxusic.github.io/depic/com.ioscheaters.rmaslrgui/index.html
+Name: Remove ASLR GUI
 
+Package: com.laxus.perl_5.14.4_iphoneos-arm
+Version: 5.14.4
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: gsc.armv7
+Section: Tools
+Priority: extra
+Provides: perl
+Replaces: perl
+Size: 127512
+Filename: debs//com.laxus.perl_5.14.4_iphoneos-arm.deb
+MD5sum: e42d3c30f2c60ec67d0727569d9f5c4c
+SHA1: s09edf75c92d90c61d8f650a5d617c3981f0dbb2b
+SHA256: fa7bbd5c38ed615e1d3c853f921c7b65ff5d272c272bd61c852c5e554296294d
+Description: Command Line Tool
+Author: HYI <repo@hackyouriphone.org>
+Depiction: http://laxusic.github.io/depic/com.laxus.perl/index.html
+Name: Perl
