@@ -1,12 +1,15 @@
-Package: com.laxus.plantsvszombies2
+Package: com.laxus.plantsvszombies2_3.7.1-1_iphoneos-arm
 Version: 3.7.1
 Architecture: iphoneos-arm
 Maintainer: Laxus <mrjason9113@gmail.com>
 Depends: mobilesubstrate, preferenceloader
 Section: Tweaks
+Size: 96960
+Filename: debs//com.laxus.plantsvszombies2_3.7.1-1_iphoneos-arm.deb
 MD5sum: 406CCCB84C2EC974260A73BC85D05D92
 SHA1: 66D97853FB468B81FBA23784B81905D09E53A995
+SHA256: 510bba7e2b2a83876c4a70f5f84f1adfd29f73e05cc38269063d4b826139b69d
 Description: Hacked by Laxus. Visit iOSCheaters & iOSGods for more!
 Author: Laxus <mrjason9113@gmail.com>
-Depiction: http://laxuscheats.github.io/depic/com.laxus.plantsvszombies2/index.html
+Depiction: http://laxusios.github.io/depic/com.laxus.plantsvszombies2/index.html
 Name: Plants vs Zombies 2
