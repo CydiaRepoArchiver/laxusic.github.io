@@ -30,3 +30,21 @@ Description: Removes ASLR from apps
 Author: iOSCheaters
 Depiction: http://laxusic.github.io/depic/com.ioscheaters.rmaslrgui/index.html
 Name: Remove ASLR GUI
+
+Package: com.thireus.untrustedhostsblocker
+Version: 3.4.0
+Architecture: iphoneos-arm
+Maintainer: Thireus
+Section: Security
+Conflicts: com.thireus.untrustedhostsblockerlight
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: sed, grep, coreutils, shell-cmds
+Size: 735984
+Filename: debs//com.thireus.untrustedhostsblocker_3.4.0_iphoneos-arm.deb
+MD5sum: abde4e29ef7d3fc055dd5abb8e0fde38
+SHA1: d9b41a3f79bc76e97f034ab1ef1181078b673f91
+SHA256: e586423e370a9c2ddb3e54376b5c14b27e761aaf43c5bfe793af100b86d86075
+Description: Say goodbye to ads, spies, tracking and untrusted hosts.
+Author: Thireus
+Depiction: http://laxusic.github.io/depic/com.thireus.untrustedhostsblocker/index.html
+Name: Untrusted Hosts Blocker
