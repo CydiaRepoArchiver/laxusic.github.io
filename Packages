@@ -48,7 +48,7 @@ Author: iOSCheaters
 Depiction: http://laxusic.github.io/depic/com.ioscheaters.rmaslrgui/index.html
 Name: Remove ASLR GUI
 
-Package: com.laxus.perl_5.14.4_iphoneos-arm
+Package: com.laxus.perl
 Version: 5.14.4
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
