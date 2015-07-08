@@ -30,3 +30,19 @@ Description: you can visit system file through a assistant on a Jailbroken devic
 Author: TaiG
 Depiction: http://laxusic.github.io/depic/com.taig.afc2/index.html
 Name: TaiG AFC2
+
+Package: com.myrepospace.ColonelJason.rmaslrgui
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Alcatraz
+Section: Tools
+Priority: extra
+Size: 23732
+Filename: debs//com.ioscheaters.rmaslrgui.deb
+MD5sum: 984572e9c65363639e4bd5b1046e2bfa
+SHA1: 3aa9824047867696b2ef9a172254a44b2957867c
+SHA256: 99ed3b4afeb341c3ed2aacdff88970af9da8db33c3922e3c8d12e84a91bae2a7
+Description: Removes ASLR from apps
+Author: iOSCheaters
+Depiction: http://laxusic.github.io/depic/com.ioscheaters.rmaslrgui/index.html
+Name: Remove ASLR GUI
