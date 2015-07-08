@@ -51,18 +51,15 @@ Author: HYI <repo@hackyouriphone.org>
 Depiction: http://laxusic.github.io/depic/com.laxus.perl/index.html
 Name: Perl
 
-Package: com.taskinoz.LSBarebones-TinyMod
-Name: LS Barebones - Tiny Mod
-Version: 1.1
-Section: LS Theme
-Maintainer: taskinoz <tristan@taskinoz.com>
+Package: com.laxus.baumansfont
+Version: 1.0.1
+Section: Fonts
+Maintainer: Laxus
+Size: 4130770
+MD5sum: E171CC4316047A6F0E3048B232FD6A36
+Depends: com.bytafont.bytafont2
 Architecture: iphoneos-arm
-Size: 693626
-Filename: com.taskinoz.lsbarebones-tinymod_1.1_iphoneos-arm.deb
-MD5sum: 1822e49f00a2894b50bcfedbf519a0e0
-SHA1: ec701f79de3ef4c11e1638b841dcfedf6b6bf1d0
-SHA256: 297c1d2a2b42452db0c1832d9b9e1830aeb9027de5567c24bf87d06dc6817228
-Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
-Depiction: http://laxusic.github.io/depic/com.taskinoz.lsbarebones/index.html
-Author: Trisan <tristan@taskinoz.com
-Sponsor: taskinoz <http://taskinoz.com>
+Description: Baumans Viet for iOS 7 and 8
+Name: Baumans Font
+Depiction: http://laxusic.github.io/depic/com.laxus.baumansfont/index.html
+Author: Laxus
