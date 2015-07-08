@@ -1,3 +1,21 @@
+/*
+Package: 
+Version: 
+Architecture: iphoneos-arm
+Maintainer: 
+Depends: 
+Section: Tweaks
+Size: 
+Filename: debs//
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: 
+Author: 
+Depiction: 
+Name:
+*/
+
 Package: com.laxus.plantsvszombies2
 Version: 3.7.1
 Architecture: iphoneos-arm
@@ -13,3 +31,20 @@ Description: Hacked by Laxus. Visit iOSCheaters & iOSGods for more!
 Author: Laxus <mrjason9113@gmail.com>
 Depiction: http://laxusic.github.io/depic/com.laxus.plantsvszombies2/index.html
 Name: Plants vs Zombies 2
+
+Package: apt.3k.taigafc2
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: 
+Depends: firmware (>= 8.0),firmware (<= 8.4)
+Section: Tweaks
+Priority: optional
+Size: 23732
+Filename: debs//apt.3k.taigafc2_0.1_iphoneos-arm.deb
+MD5sum: ac7c737ef9cfb6aea0de2ff7ac2f4ed2
+SHA1: 9c2b6a0199dac0b4d5daa1b6d66dab5481c1a31a
+SHA256: 717e0ac08420dee252d76823f738cf10bc1b1e5b0dab02e4333a5d8f638b869d
+Description: you can visit system file through a assistant on a Jailbroken device.
+Author: TaiG
+Depiction: 
+Name: TaiG AFC2
