@@ -1,21 +1,3 @@
-/*
-Package: 
-Version: 
-Architecture: iphoneos-arm
-Maintainer: 
-Depends: 
-Section: Tweaks
-Size: 
-Filename: debs//
-MD5sum: 
-SHA1: 
-SHA256: 
-Description: 
-Author: 
-Depiction: 
-Name:
-*/
-
 Package: com.laxus.plantsvszombies2
 Version: 3.7.1
 Architecture: iphoneos-arm
@@ -46,5 +28,5 @@ SHA1: 9c2b6a0199dac0b4d5daa1b6d66dab5481c1a31a
 SHA256: 717e0ac08420dee252d76823f738cf10bc1b1e5b0dab02e4333a5d8f638b869d
 Description: you can visit system file through a assistant on a Jailbroken device.
 Author: TaiG
-Depiction: 
+Depiction: http://laxusic.github.io/depic/com.taig.afc2/index.html
 Name: TaiG AFC2
