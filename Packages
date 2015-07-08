@@ -37,7 +37,7 @@ Architecture: iphoneos-arm
 Maintainer: Alcatraz
 Section: Tools
 Priority: extra
-Size: 23732
+Size: 127512
 Filename: debs//com.ioscheaters.rmaslrgui.deb
 MD5sum: 984572e9c65363639e4bd5b1046e2bfa
 SHA1: 3aa9824047867696b2ef9a172254a44b2957867c
