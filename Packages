@@ -32,22 +32,6 @@ Author: iOSCheaters
 Depiction: http://laxusic.github.io/depic/com.ioscheaters.rmaslrgui/index.html
 Name: Remove ASLR GUI
 
-Package: com.myrepospace.ColonelJason.rmaslrgui
-Version: 2.0.0
-Architecture: iphoneos-arm
-Maintainer: Alcatraz
-Section: Tools
-Priority: extra
-Size: 127512
-Filename: debs//com.ioscheaters.rmaslrgui.deb
-MD5sum: 984572e9c65363639e4bd5b1046e2bfa
-SHA1: 3aa9824047867696b2ef9a172254a44b2957867c
-SHA256: 99ed3b4afeb341c3ed2aacdff88970af9da8db33c3922e3c8d12e84a91bae2a7
-Description: Removes ASLR from apps
-Author: iOSCheaters
-Depiction: http://laxusic.github.io/depic/com.ioscheaters.rmaslrgui/index.html
-Name: Remove ASLR GUI
-
 Package: com.laxus.perl
 Version: 5.14.4
 Architecture: iphoneos-arm
@@ -67,14 +51,14 @@ Author: HYI <repo@hackyouriphone.org>
 Depiction: http://laxusic.github.io/depic/com.laxus.perl/index.html
 Name: Perl
 
-Package: com.taskinoz.lsbarebones-tinymod
+Package: com.taskinoz.LSBarebones-TinyMod
 Name: LS Barebones - Tiny Mod
 Version: 1.1
 Section: LS Theme
 Maintainer: taskinoz <tristan@taskinoz.com>
 Architecture: iphoneos-arm
 Size: 693626
-Filename: debs//com.taskinoz.lsbarebones-tinymod_1.1_iphoneos-arm.deb
+Filename: com.taskinoz.lsbarebones-tinymod_1.1_iphoneos-arm.deb
 MD5sum: 1822e49f00a2894b50bcfedbf519a0e0
 SHA1: ec701f79de3ef4c11e1638b841dcfedf6b6bf1d0
 SHA256: 297c1d2a2b42452db0c1832d9b9e1830aeb9027de5567c24bf87d06dc6817228
