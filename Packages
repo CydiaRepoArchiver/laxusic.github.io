@@ -15,6 +15,7 @@ Author: TaiG
 Depiction: http://laxusic.github.io/depic/com.taig.afc2/index.html
 Name: TaiG AFC2
 
+
 Package: com.myrepospace.ColonelJason.rmaslrgui
 Version: 2.0.0
 Architecture: iphoneos-arm
@@ -31,12 +32,12 @@ Author: iOSCheaters
 Depiction: http://laxusic.github.io/depic/com.ioscheaters.rmaslrgui/index.html
 Name: Remove ASLR GUI
 
+
 Package: com.thireus.untrustedhostsblocker
 Version: 3.4.0
 Architecture: iphoneos-arm
 Maintainer: Thireus
 Section: Security
-Conflicts: com.thireus.untrustedhostsblockerlight
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: sed, grep, coreutils, shell-cmds
 Size: 735984
@@ -48,3 +49,4 @@ Description: Say goodbye to ads, spies, tracking and untrusted hosts.
 Author: Thireus
 Depiction: http://laxusic.github.io/depic/com.thireus.untrustedhostsblocker/index.html
 Name: Untrusted Hosts Blocker
+
