@@ -57,7 +57,7 @@ Section: Tools
 Priority: extra
 Provides: perl
 Replaces: perl
-Size: 127512
+Size: 11235650
 Filename: debs//com.laxus.perl_5.14.4_iphoneos-arm.deb
 MD5sum: e42d3c30f2c60ec67d0727569d9f5c4c
 SHA1: s09edf75c92d90c61d8f650a5d617c3981f0dbb2b
