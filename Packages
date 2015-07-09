@@ -33,15 +33,15 @@ Version: 5.14.4
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: gsc.armv7
-Section: Terminal Support
+Section: Tools
 Priority: extra
 Provides: perl
 Replaces: perl
 Size: 11235650
 Filename: debs//com.laxus.perl_5.14.4_iphoneos-arm.deb
-MD5sum: e0d16e7ab7db3215382c31bd4bba6486
-SHA1: 04e16bc1383c7b9214d88387b7f4a2c4ff5fe252
-SHA256: 174779aeeba3688d4c3492b777dfc0e0b3819da6a2c00fe709658a16115c6adc
+MD5sum: e42d3c30f2c60ec67d0727569d9f5c4c
+SHA1: s09edf75c92d90c61d8f650a5d617c3981f0dbb2b
+SHA256: fa7bbd5c38ed615e1d3c853f921c7b65ff5d272c272bd61c852c5e554296294d
 Description: Command Line Tool
 Author: HYI <repo@hackyouriphone.org>
 Depiction: http://laxusic.github.io/depic/com.laxus.perl/index.html
@@ -214,17 +214,3 @@ Author: Thireus
 Description: Say goodbye to ads, spies, tracking and untrusted hosts.
 Depiction: http://laxusic.github.io/depic/com.laxus.untrustedhostsblocker/index.html
 Maintainer: Thireus
-
-Package: com.laxus.igg
-Name: iGameGuardian
-Version: 7.0.1
-Section: Tweaks
-MD5sum: 080b5297c9f107cd0e1a9c759b5362d2
-SHA1: fb0ffb73d9b0742089609cc1f4cee903a591daf7
-SHA256: b2e4ea60433deac6052ccc19fa7b2fcd56b71867707d347a221e0e7c47848e14
-Filename: debs//com.laxus.igg_7.0.1_iphoneos-arm.deb
-Architecture: iphoneos-arm
-Author: Aqua Wu <igameguardian@gmail.com>
-Depiction: http://laxusic.github.io/depic/com.laxus.igg/index.html
-Maintainer: Aqua Wu <igameguardian@gmail.com>
-Description: iGameGuardian is a game cheating engine for iOS 6.x/7.x/8.x
