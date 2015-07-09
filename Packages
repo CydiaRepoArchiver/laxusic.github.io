@@ -188,7 +188,7 @@ Package: com.laxus.gameplayer
 Version: 2.0
 Section: Tweaks
 Pre-Depends: firmware (>= 6.0), mobilesubstrate
-Size: 1545274
+Size: 1545288
 Name: GamePlayer
 MD5sum: 0dfedc9254efa6b0928a078b11dede3e
 SHA1: f6c980c65210500b98e10ff036147dba185b2e31
