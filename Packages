@@ -212,5 +212,5 @@ Depends: sed, grep, coreutils, shell-cmds
 Architecture: iphoneos-arm
 Author: Thireus
 Description: Say goodbye to ads, spies, tracking and untrusted hosts.
-Depiction: http://laxusic.github.io/depic/com.laxus.gameplayer/index.html
+Depiction: http://laxusic.github.io/depic/com.laxus.untrustedhostsblocker/index.html
 Maintainer: Thireus
