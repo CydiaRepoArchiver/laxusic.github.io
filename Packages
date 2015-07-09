@@ -173,3 +173,17 @@ Maintainer: Laxus
 Author: Laxus
 Depiction: http://laxusic.github.io/depic/com.laxus.lsopaco/index.html
 Section: LS Theme
+
+Package: com.laxus.nodelay64
+Author: SkyFrost <skyfrostdev@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: NoDelay64
+Size: 17214
+MD5sum: 951cd73c2ed7cf35000dcfce540dfec0
+Filename: debs//com.laxus.nodelay64.deb
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Section: Tweaks
+Version: 2.0-1
+Architecture: iphoneos-arm
+Depiction: http://laxusic.github.io/depic/com.laxus.lsopaco/index.html
+Description: remove delay on slide-to-unlock display
