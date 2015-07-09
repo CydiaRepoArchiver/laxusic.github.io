@@ -84,7 +84,7 @@ Version: 1.0
 Section: Fonts
 Maintainer: Laxus
 Size: 9217054
-MD5sum: 2DE65470C71A96303ABB071F8765E569
+MD5sum: 2de65470c71a96303abb071f8765e569
 Filename: debs//com.laxus.rixlovefoolfont.deb
 Depends: com.bytafont.bytafont2
 Architecture: iphoneos-arm
