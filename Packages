@@ -78,3 +78,17 @@ Description: EDGY Viet for iOS 7 and 8
 Name: EDGY Font
 Depiction: http://laxusic.github.io/depic/com.laxus.edgyfont/index.html
 Author: Laxus
+
+Package: com.laxus.rixlovefoolfont
+Version: 1.0
+Section: Fonts
+Maintainer: Laxus
+Size: 9217054
+MD5sum: 2DE65470C71A96303ABB071F8765E569
+Filename: debs//com.laxus.rixlovefoolfont.deb
+Depends: com.bytafont.bytafont2
+Architecture: iphoneos-arm
+Description: Rix Love Fool Viet for iOS 7 and 8
+Name: Rix Love Fool Font
+Depiction: http://laxusic.github.io/depic/com.laxus.rixlovefoolfont/index.html
+Author: Laxus
