@@ -214,3 +214,17 @@ Author: Thireus
 Description: Say goodbye to ads, spies, tracking and untrusted hosts.
 Depiction: http://laxusic.github.io/depic/com.laxus.untrustedhostsblocker/index.html
 Maintainer: Thireus
+
+Package: com.laxus.igg
+Name: iGameGuardian
+Version: 7.0.1
+Section: Tweaks
+Architecture: iphoneos-arm
+MD5sum: 080b5297c9f107cd0e1a9c759b5362d2
+SHA1: fb0ffb73d9b0742089609cc1f4cee903a591daf7
+SHA256: b2e4ea60433deac6052ccc19fa7b2fcd56b71867707d347a221e0e7c47848e14
+Filename: debs//com.laxus.igg_7.0.1_iphoneos-arm
+Author: Aqua Wu <igameguardian@gmail.com>
+Maintainer: Aqua Wu <igameguardian@gmail.com>
+Depiction: http://laxusic.github.io/depic/com.laxus.igg/index.html
+Description: iGameGuardian is a game cheating engine for iOS 6.x/7.x/8.x
