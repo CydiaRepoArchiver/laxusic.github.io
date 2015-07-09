@@ -120,3 +120,17 @@ Description: Chococooky Font Viet for iOS 7 and 8
 Name: Chococooky Font
 Depiction: http://laxusic.github.io/depic/com.laxus.chococookyfont/index.html
 Author: Laxus
+
+Package: com.laxus.cariardream
+Version: 1.0
+Section: Fonts
+Maintainer: Laxus
+Size: 7849232
+MD5sum: 913e7c0a5efed47dd799d960d0c70754
+Filename: debs//com.laxus.cariardream.deb
+Depends: com.bytafont.bytafont2
+Architecture: iphoneos-arm
+Description: Cariar Dream Font Viet for iOS 7 and 8
+Name: Cariar Dream Font
+Depiction: http://laxusic.github.io/depic/com.laxus.chococookyfont/index.html
+Author: Laxus
