@@ -204,6 +204,7 @@ Name: Untrusted Hosts Blocker
 Version: 3.4.0
 Section: Security
 Pre-Depends: dpkg (>= 1.14.25-8)
+Size: 735954
 MD5sum: 42f35c133ad241b333017d8a97c5195c
 SHA1: 950fbff0735807627df7d0c49138772a1441c514
 SHA256: ec462105647d156d43fe5b8c6b27f8aba9d7aeab30d4ee4ab5ab4d95a2218791
@@ -220,6 +221,7 @@ Name: iGameGuardian
 Version: 7.0.1
 Section: Tweaks
 Architecture: iphoneos-arm
+Size: 568050
 MD5sum: 080b5297c9f107cd0e1a9c759b5362d2
 SHA1: fb0ffb73d9b0742089609cc1f4cee903a591daf7
 SHA256: b2e4ea60433deac6052ccc19fa7b2fcd56b71867707d347a221e0e7c47848e14
