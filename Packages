@@ -92,3 +92,17 @@ Description: Rix Love Fool Viet for iOS 7 and 8
 Name: Rix Love Fool Font
 Depiction: http://laxusic.github.io/depic/com.laxus.rixlovefoolfont/index.html
 Author: Laxus
+
+Package: com.laxus.thesisfont
+Version: 1.0
+Section: Fonts
+Maintainer: Laxus
+Size: 5459252
+MD5sum: 357e95eed27af10ea428de2691e48053
+Filename: debs//com.laxus.thesisfont.deb
+Depends: com.bytafont.bytafont2
+Architecture: iphoneos-arm
+Description: THESIS Font Viet for iOS 7 and 8
+Name: THESIS Font
+Depiction: http://laxusic.github.io/depic/com.laxus.thesisfont/index.html
+Author: Laxus
