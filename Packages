@@ -136,8 +136,8 @@ Name: LS Barebones - Tiny Mod
 Version: 1.1
 Section: LS Theme
 Maintainer: taskinoz <tristan@taskinoz.com>
-Size: 693560
-MD5sum: 6c057306d1be5a7d834ce7a920c1903e
+Size: 693568
+MD5sum: 76caeab26b57609d9e82169308ae8d0d
 Filename: debs//com.taskinoz.lsbarebones-tinymod_1.1_iphoneos-arm.deb
 Architecture: iphoneos-arm
 Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
@@ -148,8 +148,8 @@ Package: com.cydro.lsthinwhite
 Name: LS Thin White
 Version: 1.0.1
 Architecture: iphoneos-arm
-Size: 51532
-MD5sum: e470551e9cbbcc8cc59f4c93fae4c730
+Size: 51552
+MD5sum: 87b1cc459ee2f1a4cf25c364dae12a52
 Filename: debs//com.cydro.lsthinwhite.deb
 Description: A minimal Lockscreen widget.
 Maintainer: cydro <adit@cydro.us>
@@ -161,8 +161,8 @@ Package: com.laxus.lsopaco
 Name: LS Opaco
 Version: 1.0.1
 Architecture: iphoneos-arm
-Size: 56570
-MD5sum: 8e8c38302db7471def588a18fa41b019
+Size: 56588
+MD5sum: e684d0462b7cb8ea07b603e75e7441d8
 Filename: debs//com.laxus.lsopaco.deb
 Description: Awesome Lockscreen Theme for Dark Theme.
 Maintainer: Laxus
