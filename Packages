@@ -198,3 +198,19 @@ Architecture: iphoneos-arm
 Maintainer: Maocai Luo <luomao2000@tom.com>
 Depiction: http://laxusic.github.io/depic/com.laxus.gameplayer/index.html
 Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 6.x, 7.x and 8.x are supported.
+
+Package: com.laxus.untrustedhostsblocker
+Name: Untrusted Hosts Blocker
+Version: 3.4.0
+Section: Security
+Pre-Depends: dpkg (>= 1.14.25-8)
+MD5sum: 42f35c133ad241b333017d8a97c5195c
+SHA1: 950fbff0735807627df7d0c49138772a1441c514
+SHA256: ec462105647d156d43fe5b8c6b27f8aba9d7aeab30d4ee4ab5ab4d95a2218791
+Filename: debs//com.thireus.untrustedhostsblocker_3.4.0_iphoneos-arm.deb
+Depends: sed, grep, coreutils, shell-cmds
+Architecture: iphoneos-arm
+Author: Thireus
+Description: Say goodbye to ads, spies, tracking and untrusted hosts.
+Depiction: http://laxusic.github.io/depic/com.laxus.gameplayer/index.html
+Maintainer: Thireus
