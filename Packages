@@ -183,3 +183,18 @@ Version: 2.0-1
 Architecture: iphoneos-arm
 Depiction: http://laxusic.github.io/depic/com.laxus.nodelay64/index.html
 Description: remove delay on slide-to-unlock display
+
+Package: com.laxus.gameplayer
+Version: 2.0
+Section: Tweaks
+Pre-Depends: firmware (>= 6.0), mobilesubstrate
+Size: 1545274
+Name: GamePlayer
+MD5sum: 0dfedc9254efa6b0928a078b11dede3e
+SHA1: f6c980c65210500b98e10ff036147dba185b2e31
+SHA256: dcf27b313c3915d436cda9a159d964d0f80d9c748c26ef94cc9ad581a917f0b5
+Filename: debs//com.laxus.gameplayer_2.0_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Maintainer: Maocai Luo <luomao2000@tom.com>
+Depiction: http://laxusic.github.io/depic/com.laxus.gameplayer/index.html
+Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 6.x, 7.x and 8.x are supported.
