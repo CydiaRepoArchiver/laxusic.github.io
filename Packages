@@ -147,3 +147,16 @@ Architecture: iphoneos-arm
 Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
 Depiction: http://laxusic.github.io/depic/com.taskinoz.lsbarebones/index.html
 Author: Trisan <tristan@taskinoz.com>
+
+Package: com.cydro.lsthinwhite
+Name: LS Thin White
+Version: 1.0.1
+Architecture: iphoneos-arm
+Size: 51532
+MD5sum: e470551e9cbbcc8cc59f4c93fae4c730
+Filename: debs//com.cydro.lsthinwhite.deb
+Description: A minimal Lockscreen widget.
+Maintainer: cydro <adit@cydro.us>
+Author: cydro <adit@cydro.us>
+Depiction: http://laxusic.github.io/depic/com.cydro.lsthinwhite/index.html
+Section: LS Theme
