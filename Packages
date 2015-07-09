@@ -160,3 +160,16 @@ Maintainer: cydro <adit@cydro.us>
 Author: cydro <adit@cydro.us>
 Depiction: http://laxusic.github.io/depic/com.cydro.lsthinwhite/index.html
 Section: LS Theme
+
+Package: com.laxus.lsopaco
+Name: LS Opaco
+Version: 1.0.1
+Architecture: iphoneos-arm
+Size: 56570
+MD5sum: 8e8c38302db7471def588a18fa41b019
+Filename: debs//com.laxus.lsopaco.deb
+Description: Awesome Lockscreen Theme for Dark Theme.
+Maintainer: Laxus
+Author: Laxus
+Depiction: http://laxusic.github.io/depic/com.laxus.lsopaco/index.html
+Section: LS Theme
