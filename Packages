@@ -64,3 +64,17 @@ Description: Baumans Viet for iOS 7 and 8
 Name: Baumans Font
 Depiction: http://laxusic.github.io/depic/com.laxus.baumansfont/index.html
 Author: Laxus
+
+Package: com.laxus.edgyfont
+Version: 1.0
+Section: Fonts
+Maintainer: Laxus
+Size: 4745260
+MD5sum: d638459989c02bc9d1e96e8bcc468199
+Filename: debs//com.laxus.edgyfont.deb
+Depends: com.bytafont.bytafont2
+Architecture: iphoneos-arm
+Description: EDGY Viet for iOS 7 and 8
+Name: EDGY Font
+Depiction: http://laxusic.github.io/depic/com.laxus.edgyfont/index.html
+Author: Laxus
