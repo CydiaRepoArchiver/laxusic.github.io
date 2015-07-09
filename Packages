@@ -57,8 +57,7 @@ Section: Fonts
 Maintainer: Laxus
 Size: 4130770
 MD5sum: e171cc4316047a6f0e3048b232fd6a36
-SHA1: 72fd4cebf2dddd02c3cd27675c0e464b17937c8d
-SHA256: c95e62e496e3b2daf738cb90be1f6980138cf85254d6363b43b8c35234e0f20e
+Filename: debs//vn.gsm.baumansfont_1.0.1_iphoneos-arm.deb
 Depends: com.bytafont.bytafont2
 Architecture: iphoneos-arm
 Description: Baumans Viet for iOS 7 and 8
