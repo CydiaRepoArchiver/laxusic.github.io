@@ -1,20 +1,16 @@
-Package: apt.3k.taigafc2
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: 
-Depends: firmware (>= 8.0),firmware (<= 8.4)
-Section: Tweaks
-Priority: optional
-Size: 23732
-Filename: debs//apt.3k.taigafc2_0.1_iphoneos-arm.deb
-MD5sum: ac7c737ef9cfb6aea0de2ff7ac2f4ed2
-SHA1: 9c2b6a0199dac0b4d5daa1b6d66dab5481c1a31a
-SHA256: 717e0ac08420dee252d76823f738cf10bc1b1e5b0dab02e4333a5d8f638b869d
-Description: you can visit system file through a assistant on a Jailbroken device.
-Author: TaiG
-Depiction: http://laxusic.github.io/depic/com.taig.afc2/index.html
 Name: TaiG AFC2
-
+Depends: firmware (>= 8.0),firmware (<= 8.4)
+Package: apt.3k.taigafc2
+Description: you can visit system file through a assistant on a Jailbroken device. 
+Version: 0.1
+Size: 23586
+Filename: debs//apt.3k.taigafc2_0.1_iphoneos-arm.deb
+MD5sum: f6f1af558f1d193eff015471ef5d333f
+SHA1: 066fc3549b9965f5d7ce5e9712011b7644665ac5
+SHA256: 4fc5646f70e73da96e463964a6452e65c21a41198f058529df49e70b6569e650
+Architecture: iphoneos-arm
+Section: Tweaks
+Author: TaiG
 
 Package: com.myrepospace.ColonelJason.rmaslrgui
 Version: 2.0.0
