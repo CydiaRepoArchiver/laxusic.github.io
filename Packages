@@ -134,3 +134,16 @@ Description: Cariar Dream Font Viet for iOS 7 and 8
 Name: Cariar Dream Font
 Depiction: http://laxusic.github.io/depic/com.laxus.cariardream/index.html
 Author: Laxus
+
+Package: com.taskinoz.lsbarebones
+Name: LS Barebones - Tiny Mod
+Version: 1.1
+Section: LS Theme
+Maintainer: taskinoz <tristan@taskinoz.com>
+Size: 693560
+MD5sum: 6c057306d1be5a7d834ce7a920c1903e
+Filename: debs//com.taskinoz.lsbarebones-tinymod_1.1_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
+Depiction: http://laxusic.github.io/depic/com.taskinoz.lsbarebones/index.html
+Author: Trisan <tristan@taskinoz.com>
