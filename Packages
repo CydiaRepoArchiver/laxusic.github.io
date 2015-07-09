@@ -106,3 +106,17 @@ Description: THESIS Font Viet for iOS 7 and 8
 Name: THESIS Font
 Depiction: http://laxusic.github.io/depic/com.laxus.thesisfont/index.html
 Author: Laxus
+
+Package: com.laxus.chococookyfont
+Version: 1.0
+Section: Fonts
+Maintainer: Laxus
+Size: 3304068
+MD5sum: 90a25d9c472cca26144b733551c76b7d
+Filename: debs//com.laxus.chococookyfont.deb
+Depends: com.bytafont.bytafont2
+Architecture: iphoneos-arm
+Description: Chococooky Font Viet for iOS 7 and 8
+Name: Chococooky Font
+Depiction: http://laxusic.github.io/depic/com.laxus.chococookyfont/index.html
+Author: Laxus
