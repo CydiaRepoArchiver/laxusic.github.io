@@ -131,34 +131,6 @@ Name: Cariar Dream Font
 Depiction: http://laxusic.github.io/depic/com.laxus.cariardream/index.html
 Author: Laxus
 
-Package: com.taskinoz.lsbarebones
-Name: LS Barebones - Tiny Mod
-Version: 1.1
-Section: Themes (LockScreen)
-Maintainer: taskinoz <tristan@taskinoz.com>
-Size: 693568
-MD5sum: 14cce3120154f3c0446b4930df1fa186
-SHA1: 696c764c140b927f87faddde535504e5fd4220fb
-SHA256: 564e6e2f183ccf695f54bf7583b4526d9cbb46047fd763626015fdfde23deb6c
-Filename: debs//com.taskinoz.lsbarebones-tinymod_1.1_iphoneos-arm.deb
-Architecture: iphoneos-arm
-Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
-Depiction: http://laxusic.github.io/depic/com.taskinoz.lsbarebones/index.html
-Author: Trisan <tristan@taskinoz.com>
-
-Package: com.cydro.lsthinwhite
-Name: LS Thin White
-Version: 1.0.1
-Architecture: iphoneos-arm
-Size: 51550
-MD5sum: c651c0ef3bc71841d39688dc82b3f461
-Filename: debs//com.cydro.lsthinwhite.deb
-Description: A minimal Lockscreen widget.
-Maintainer: cydro <adit@cydro.us>
-Author: cydro <adit@cydro.us>
-Depiction: http://laxusic.github.io/depic/com.cydro.lsthinwhite/index.html
-Section: Themes (LockScreen)
-
 Package: com.laxus.lsopaco
 Name: LS Opaco
 Version: 1.0.1
