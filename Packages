@@ -138,6 +138,8 @@ Section: Themes (LockScreen)
 Maintainer: taskinoz <tristan@taskinoz.com>
 Size: 693568
 MD5sum: 14cce3120154f3c0446b4930df1fa186
+SHA1: 696c764c140b927f87faddde535504e5fd4220fb
+SHA256: 564e6e2f183ccf695f54bf7583b4526d9cbb46047fd763626015fdfde23deb6c
 Filename: debs//com.taskinoz.lsbarebones-tinymod_1.1_iphoneos-arm.deb
 Architecture: iphoneos-arm
 Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
