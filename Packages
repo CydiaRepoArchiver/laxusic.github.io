@@ -144,6 +144,20 @@ Author: Laxus
 Depiction: http://laxusic.github.io/depic/com.laxus.lsopaco/index.html
 Section: Themes (LockScreen)
 
+Package: com.taskinoz.lsbarebones
+Name: LS Barebones - Tiny Mod
+Version: 1.1
+Section: Themes (LockScreen)
+Size: 693584
+MD5sum: 631872229ac4256704c3dee5c5cf60ff
+Filename: debs//com.taskinoz.lsbarebones-tinymod_1.1_iphoneos-arm_laxus.deb
+Maintainer: taskinoz <tristan@taskinoz.com>
+Architecture: iphoneos-arm
+Description: A Tiny lightweight version of LS Barebones. (A Barebones version of LS Barebones)
+Author: Trisan <tristan@taskinoz.com
+Depiction: http://laxusic.github.io/depic/com.laxus.lsopaco/index.html
+Sponsor: taskinoz <http://taskinoz.com>
+
 Package: com.laxus.nodelay64
 Author: SkyFrost <skyfrostdev@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
