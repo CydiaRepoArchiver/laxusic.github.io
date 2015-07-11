@@ -47,6 +47,21 @@ Author: HYI <repo@hackyouriphone.org>
 Depiction: http://laxusic.github.io/depic/com.laxus.perl/index.html
 Name: Perl
 
+Package: com.laxus.debugserver
+Name: debugserver
+Version: 1.0
+Architecture: iphoneos-arm
+Size: 513578
+Filename: debs//com.laxus.debugserver.deb
+MD5sum: 28291613476080aff62b5f985a6a497f
+SHA1: 9ee67ee252db6f8da2e14b91222a313e7c6ff2b2
+SHA256: 28043b59f3334542f516d350221df75fcd570417b0d74cee1c1012ed019aefe6
+Description: A debugserver tool for lldb. 
+Maintainer: Laxus
+Author: Laxus
+Depiction: http://laxusic.github.io/depic/com.laxus.debugserver/index.html
+Section: Terminal Support
+
 Package: com.laxus.baumansfont
 Version: 1.0.1
 Section: Fonts
