@@ -246,3 +246,25 @@ Section: Terminal Support
 Description: local UIKit-based Terminal emulator
 Depiction: http://laxusic.github.io/depic/com.laxus.mobileterminal/index.html
 Maintainer: Laxus
+
+Package: com.laxus.untrustedhostsblockerlight
+Priority: standard
+Name: Light Untrusted Hosts Blocker
+Version: 2.2.3
+Installed-Size: 213
+Section: Security
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: sed, grep, coreutils, shell-cmds
+Size: 119084
+MD5sum: ca718cef13de16563bfbb7a85093e8ac
+SHA1: 13dd830d352a94b95f40add2dc64f4278b776e19
+SHA256: 8e1fd34bddc241aba264a3ced9a33adb7e43e391eafb59dc763d5c0fa7497391
+Filename: debs//com.thireus.untrustedhostsblockerlight_2.2.3_iphoneos-arm_laxus.deb
+Conflicts: com.laxus.untrustedhostsblocker
+Architecture: iphoneos-arm
+Author: Thireus
+Depiction: http://laxusic.github.io/depic/com.laxus.untrustedhostsblockerlight/index.html
+Description: Light version for old/slow devices
+ Say goodbye to ads, spies, tracking and untrusted hosts.
+ This is a light version of Untrusted Hosts Blocker for slow iDevices: iPhone 4S/iPad 2 and older devices
+Maintainer: Thireus
