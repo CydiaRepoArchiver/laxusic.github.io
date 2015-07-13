@@ -263,3 +263,21 @@ Author: Thireus
 Description: Restore your original /etc/hosts file
 Depiction: http://laxusic.github.io/depic/com.laxus.hostscleaner/index.html
 Maintainer: Thireus
+
+Package: com.laxus.untrustedhostsblockerlight
+Name: Light Untrusted Hosts Blocker
+Version: 2.2.3
+Section: Security
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: sed, grep, coreutils, shell-cmds
+Architecture: iphoneos-arm
+Size: 119022
+MD5sum: 831ebd6643e258bb3b738e909b1cfaea
+SHA1: 1971839215213458bb74411e623387b1ec6e9616
+SHA256: 5f2165acaf862eb9185cae7dd0911604dfb7d69646ac91fbd36c211b55056978
+Filename: debs//com.laxus.untrustedhostsblockerlight_2.2.3_iphoneos-arm_laxus.deb
+Author: Thireus
+Maintainer: Thireus
+Depiction: http://laxusic.github.io/depic/com.laxus.untrustedhostsblockerlight/index.html
+Description: Light version for old/slow devices. Say no to Ads. If you install this Ligh version make sure you remove Untrusted Hosts Blocker.
+
