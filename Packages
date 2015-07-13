@@ -256,7 +256,6 @@ Section: Security
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: sed, grep, coreutils, shell-cmds
 Size: 119084
-MD5sum: ca718cef13de16563bfbb7a85093e8ac
 Filename: debs//com.laxus.untrustedhostsblockerlight_2.2.3_iphoneos-arm_laxus.deb
 Conflicts: com.laxus.untrustedhostsblocker
 Architecture: iphoneos-arm
