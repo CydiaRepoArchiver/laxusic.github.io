@@ -297,3 +297,18 @@ Maintainer: Laxus
 Depiction: http://laxusic.github.io/depic/com.laxus.debeasier/index.html
 Author: Laxus
 
+Name: GNU Debugger
+Package: com.laxus.gdb
+Section: Terminal Support
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Architecture: iphoneos-arm
+Size: 7950634
+MD5sum: bcf74f99313960868f5a51060a2c6783
+SHA1: a0e677ae00403eb5e77b21e468a4733dc4058311
+SHA256: 75d40416111dfdff3c13e2c1ff0f6402da9bf5411d288038b7e68a80e1bd9db7
+Filename: debs//com.laxus.gdb.deb
+Version: 1518-12
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses, readline, sqlite3
+Depiction: http://laxusic.github.io/depic/com.laxus.gdb/index.html
+Description: A Debugger work on 32 bit devices.
