@@ -37,7 +37,7 @@ Section: Terminal Support
 Priority: extra
 Provides: perl
 Replaces: perl
-Size: 11235650
+Size: 11235660
 Filename: debs//com.laxus.perl_5.14.4_iphoneos-arm.deb
 MD5sum: 0a774ca344bd45478bef1e1678a27d94
 SHA1: 885647e2e0b2d7b33110e23c702ef90d93b12342
@@ -280,4 +280,20 @@ Author: Thireus
 Maintainer: Thireus
 Depiction: http://laxusic.github.io/depic/com.laxus.untrustedhostsblockerlight/index.html
 Description: Light version for old/slow devices. Say no to Ads. If you install this Ligh version make sure you remove Untrusted Hosts Blocker.
+
+Package: com.laxus.debeasier
+Name: Deb Easier
+Depends: mobilesubstrate
+Section: Terminal Support
+Version: 1.0
+Architecture: iphoneos-arm
+Size: 1106
+MD5sum: 124d1a8814ccd667d421564a429a558f
+SHA1: 6adb4c241a08883eb0454084b06635342337b0a4
+SHA256: cdffe0c1fdd83fd5306b401d7f3656a702853963d7437d4eb3fc30196b72b409
+Filename: debs//com.laxus.debeasier.deb
+Description: Extract and Package the deb easiest way. Command: debextract, debmount.
+Maintainer: Laxus
+Depiction: http://laxusic.github.io/depic/com.laxus.debeasier/index.html
+Author: Laxus
 
