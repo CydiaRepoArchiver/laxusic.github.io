@@ -312,3 +312,19 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses, readline, sqlite3
 Depiction: http://laxusic.github.io/depic/com.laxus.gdb/index.html
 Description: A Debugger work on 32 bit devices.
+
+Package: com.laxus.darknessreborn
+Name: Darkness Reborn
+Version: 1.2.5-4
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Size: 163782
+MD5sum: c2c95e43b2191944ed525c4d42999e3a
+SHA1: 95ec7e15714141d248a07746f00f8f028b694fb5
+SHA256: 32f0c38d25d31e888a73f00e20365fcdfb9312f5df4ae766d601690e55b20977
+Filename: debs//com.laxus.darknessreborn_1.2.5-4_iphoneos-arm_laxus.deb
+Description: 5$ / license. Contact me: mrjason9113@gmail.com
+Maintainer: Laxus
+Author: Laxus
+Depiction: http://laxusic.github.io/depic/com.laxus.darknessreborn/index.html
+Section: Tweaks
