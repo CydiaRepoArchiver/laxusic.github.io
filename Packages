@@ -328,3 +328,20 @@ Maintainer: Laxus
 Author: Laxus
 Depiction: http://laxusic.github.io/depic/com.laxus.darknessreborn/index.html
 Section: Tweaks
+
+
+Package: com.laxus.appvn
+Name: Appvn
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Size: 232504
+MD5sum: c8e39464661c61d99708cd2dd3c027ef
+SHA1: aa3d7560b47210f232d7e9f5f03dc042290012ed
+SHA256: 9238fa7833844336e482c4f81e83cbe7fc9f4b8f72b0078c6cebc0d2554289be
+Filename: debs//com.laxus.appvn_5.0-2_iphoneos-arm_laxus.deb
+Description: Patched by Laxus. Visit iOSCheaters and HeaveniPhone for more!
+Maintainer: Laxus <mrjason9113@gmail.com>
+Author: Laxus <mrjason9113@gmail.com>
+Depiction: http://laxusic.github.io/depic/com.laxus.appvn/index.html
+Section: Tweaks
+Version: 5.0-2
