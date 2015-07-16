@@ -318,11 +318,11 @@ Name: Darkness Reborn
 Version: 1.2.5-4
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Size: 163782
-MD5sum: c2c95e43b2191944ed525c4d42999e3a
-SHA1: 95ec7e15714141d248a07746f00f8f028b694fb5
-SHA256: 32f0c38d25d31e888a73f00e20365fcdfb9312f5df4ae766d601690e55b20977
-Filename: debs//com.laxus.darknessreborn_1.2.5-4_iphoneos-arm_laxus.deb
+Size: 176942
+MD5sum: 3865846b2baea26c4148fc5628988775
+SHA1: 7ebde8dc3c5cab1b006bbc9b8f42e8fde8ab3f83
+SHA256: 1d7e8bf7ef4d6b00701e40c4f1655655e1f185e7ab90e6f5af9cb120d955f10e
+Filename: debs//com.laxus.darknessreborn_1.2.5-4_iphoneos-arm_laxus_laxus.deb
 Description: 5$ / license. Contact me: mrjason9113@gmail.com
 Maintainer: Laxus
 Author: Laxus
