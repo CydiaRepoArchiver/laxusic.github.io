@@ -234,19 +234,6 @@ Maintainer: Aqua Wu <igameguardian@gmail.com>
 Depiction: http://laxusic.github.io/depic/com.laxus.igg/index.html
 Description: iGameGuardian is a game cheating engine for iOS 6.x/7.x/8.x
 
-Package: com.laxus.mobileterminal
-Name: MobileTerminal (iOS7)
-Version: 520.2.1
-Architecture: iphoneos-arm
-Author: Laxus
-Size: 236416
-MD5sum: 29720668a099be350b7fe57916533822
-Filename: debs//com.laxus.mobileterminal_520-2-1_iphoneos-arm_laxus_laxus.deb
-Section: Terminal Support
-Description: local UIKit-based Terminal emulator
-Depiction: http://laxusic.github.io/depic/com.laxus.mobileterminal/index.html
-Maintainer: Laxus
-
 Package: com.laxus.hostscleaner
 Name: Hosts Cleaner
 Version: 1.0.2
