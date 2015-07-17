@@ -329,7 +329,6 @@ Author: Laxus
 Depiction: http://laxusic.github.io/depic/com.laxus.darknessreborn/index.html
 Section: Tweaks
 
-
 Package: com.laxus.appvn
 Name: Appvn
 Depends: mobilesubstrate, preferenceloader
@@ -345,3 +344,18 @@ Author: Laxus <mrjason9113@gmail.com>
 Depiction: http://laxusic.github.io/depic/com.laxus.appvn/index.html
 Section: Tweaks
 Version: 5.0-2
+
+Package: com.laxus.mobileterminal
+Name: MobileTerminal
+Version: 520-2-1
+Architecture: iphoneos-arm
+Author: Fr0st
+Section: Terminal Support
+Size: 243694
+MD5sum: 3b3c6b0e6388cec3e900f4d1f54be0bd
+SHA1: f2bf40fa963be77555f8873b94ead11a0f1d2e8b
+SHA256: ae31b8a2f66483bfc795068bb241a74e65dd73db1ca83fd0ee1ec13e61a91b4c
+Filename: debs//com.laxus.mobileterminal_520-2-1_iphoneos-arm.deb
+Description: Local UIKit-based Terminal emulator
+Depiction: http://laxusic.github.io/depic/com.laxus.mobileterminal/index.html
+Maintainer: Laxus
