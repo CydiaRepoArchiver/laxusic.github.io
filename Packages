@@ -346,3 +346,20 @@ Filename: debs//com.laxus.mobileterminal_520-2-1_iphoneos-arm.deb
 Description: Local UIKit-based Terminal emulator
 Depiction: http://laxusic.github.io/depic/com.laxus.mobileterminal/index.html
 Maintainer: Laxus
+
+Package: com.laxus.kritika
+Name: Kritika
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: 7$ / license. Contact me: mrjason9113@gmail.com
+Maintainer: Laxus
+Author: Laxus
+Section: Tweaks
+Size: 178466
+MD5sum: c360e364b8eda6063e8b1cd893121896
+SHA1: 401dce70ad8a3db59b3bbc52f972e54a0f4697cd
+SHA256: fe481024c8d27f7eb44cca01a1102fd4a23af802edc06a497d6efccbe534ae01
+Filename: debs//com.laxus.kritika_2.16.4-1_iphoneos-arm_laxus.deb
+Version: 2.16.4-1
+Depiction: http://laxusic.github.io/depic/com.laxus.kritika/index.html
+Installed-Size: 168
