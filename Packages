@@ -355,11 +355,11 @@ Description: 7$ / license. Contact me: mrjason9113@gmail.com
 Maintainer: Laxus
 Author: Laxus
 Section: Tweaks
-Size: 178478
-MD5sum: 72a83c1ef9e593b9100450174d3af149
-SHA1: 5dad47eed92269d7802b57743178f8d320e119af
-SHA256: c4b522613f9174d6e4e2ac6b81517babf6b1fa451894685aedc53a22e97a9c7b
-Filename: debs//com.laxus.kritika_2.16.4-2_iphoneos-arm_laxus.deb
-Version: 2.16.4-2
+Size: 178814
+MD5sum: e06b9acae064e61024b9c2edcedfe5be
+SHA1: ece31d8042ca9c81b98df189cc7f762e20220d68
+SHA256: e5ebebbc8366e03091a90f893d75c5609df9339ba12be2fe2a36ae858b2af9ea
+Filename: debs//com.laxus.kritika_2.17.3-1_iphoneos-arm_laxus.deb
+Version: 2.17.3-1
 Depiction: http://laxusic.github.io/depic/com.laxus.kritika/index.html
 Installed-Size: 168
