@@ -2,4 +2,4 @@
 
 Add this source in Cydia!
 
-You can contact me on iOSCheaters or Twitter @Jellal6688
+You can contact me on iOSCheaters or Twitter @laxusic
