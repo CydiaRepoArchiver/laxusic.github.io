@@ -302,14 +302,14 @@ Description: A Debugger work on 32 bit devices.
 
 Package: com.laxus.darknessreborn
 Name: Darkness Reborn
-Version: 1.2.8-1
+Version: 1.2.9-2
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Size: 179390
-MD5sum: c006b5cdaa66174cdbd45f8cccbd2b49
-SHA1: 011dec378a6275f9895b0690e87bc16473c3a096
-SHA256: 6a35e4dad8f720fe30fff3df92ec14c3b0a2012bc93ea03f84010a6127a88a47
-Filename: debs//com.laxus.darknessreborn_1.2.8-1_iphoneos-arm_laxus.deb
+Size: 179416
+MD5sum: e317aa323c95cf83cca7ffb38b7333ec
+SHA1: 7dc3ed30d4def7655840c5650cb6247daf385a78
+SHA256: 1cc80a4b490e9113345bd705f974e1beca7c1e39705a5ae1f2f06a8df007c5b3
+Filename: debs//com.laxus.darknessreborn_1.2.9-2_iphoneos-arm_laxus.deb
 Description: 5$ / license. Contact me: mrjason9113@gmail.com
 Maintainer: Laxus
 Author: Laxus
